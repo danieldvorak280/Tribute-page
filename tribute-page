@@ -1,8 +1,8 @@
 <html>
-  <title>Tribute page</title>
   <body>
-      <footer>
-          <h1>Dr. Norman Borlaug</h1>
-      </footer>
+    <title>Tribute page</title>
+    <footer>
+      <h1>Dr. Norman Borlaug</h1>
+    </footer>
   </body>
 </html>
